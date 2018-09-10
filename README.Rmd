@@ -1,0 +1,19 @@
+---
+title: "Getting down and up with blogging in R"
+author: "Emi Tanaka, University of Sydney"
+date: "28th August 2018"
+output:
+  github_document:
+    toc: yes
+    toc_depth: 3
+  html_document:
+    toc: yes
+    toc_depth: 3
+linkcolor: magenta
+urlcolor: magenta
+---
+
+Find slides at https://emitanaka.github.io/talk/2018-08-28-rladies_melbourne_blogdown/
+
+
+
